@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "سرهمی نوزادی خرس کوچولو کتان",
+    "badge": "جدید",
+    "price": "۴۸۰,۰۰۰ تومان",
+    "size": "۰–۶ ماه",
+    "description": "سرهمی نوزادی با پارچه کتان نرم و ضدحساسیت، مناسب خواب و بازی روزمره.",
+    "image": "https://images.pexels.com/photos/3933023/pexels-photo-3933023.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 2,
+    "name": "سرهمی زیپی نوزادی طرح ابر",
+    "badge": "پرفروش",
+    "price": "۵۲۰,۰۰۰ تومان",
+    "size": "۰–۹ ماه",
+    "description": "سرهمی زیپی با طرح ابرهای فانتزی، تعویض پوشک راحت و بدون اذیت شدن نوزاد.",
+    "image": "https://images.pexels.com/photos/3933272/pexels-photo-3933272.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 3,
+    "name": "ست تی‌شرت و شلوار بچگانه طرح دایناسور",
+    "badge": "محبوب",
+    "price": "۵۶۰,۰۰۰ تومان",
+    "size": "۱–۳ سال",
+    "description": "ست راحتی طرح دایناسور با پارچه نخی خنک، مناسب مهدکودک و بازی.",
+    "image": "https://images.pexels.com/photos/3661452/pexels-photo-3661452.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 4,
+    "name": "ست تی‌شرت و شلوار دخترانه طرح قلب",
+    "badge": "جدید",
+    "price": "۵۸۰,۰۰۰ تومان",
+    "size": "۲–۴ سال",
+    "description": "ست دخترانه با طرح قلب و رنگ‌های ملایم، بسیار نرم و سبک.",
+    "image": "https://images.pexels.com/photos/3661552/pexels-photo-3661552.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 5,
+    "name": "پیراهن دخترانه گلدار تابستانه",
+    "badge": "تخفیف‌دار",
+    "price": "۶۲۰,۰۰۰ تومان",
+    "size": "۳–۶ سال",
+    "description": "پیراهن تابستانه گلدار با پارچه خنک، مناسب مهمانی و عکاسی.",
+    "image": "https://images.pexels.com/photos/3661551/pexels-photo-3661551.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 6,
+    "name": "پیراهن مجلسی دخترانه با تور نرم",
+    "badge": "مجلسی",
+    "price": "۷۹۰,۰۰۰ تومان",
+    "size": "۴–۷ سال",
+    "description": "پیراهن مجلسی با دامن تور چند لایه و آستر نخی بدون خارش.",
+    "image": "https://images.pexels.com/photos/3661459/pexels-photo-3661459.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 7,
+    "name": "هودی بچگانه خرسی داخل کرک",
+    "badge": "زمستانی",
+    "price": "۷۹۰,۰۰۰ تومان",
+    "size": "۴–۸ سال",
+    "description": "هودی فانتزی طرح خرس با داخل کرکی گرم، مناسب پاییز و زمستان.",
+    "image": "https://images.pexels.com/photos/3933036/pexels-photo-3933036.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 8,
+    "name": "کاپشن بچگانه ضدباد و ضدآب",
+    "badge": "ویژه باران",
+    "price": "۹۲۰,۰۰۰ تومان",
+    "size": "۵–۱۰ سال",
+    "description": "کاپشن سبک و ضدباد با لایه داخلی گرم، مناسب روزهای بارانی مدرسه.",
+    "image": "https://images.pexels.com/photos/3932989/pexels-photo-3932989.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 9,
+    "name": "شلوار کتان بچگانه جذب ۴ جیب",
+    "badge": "پرفروش",
+    "price": "۴۲۰,۰۰۰ تومان",
+    "size": "۳–۷ سال",
+    "description": "شلوار کتان روزمره با چهار جیب کاربردی، مناسب استایل اسپرت و رسمی.",
+    "image": "https://images.pexels.com/photos/3661583/pexels-photo-3661583.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 10,
+    "name": "ست خواب بچگانه طرح ستاره",
+    "badge": "خواب راحت",
+    "price": "۴۹۰,۰۰۰ تومان",
+    "size": "۲–۶ سال",
+    "description": "ست خواب دو تکه با طرح ستاره و پارچه نخی تنفس‌پذیر.",
+    "image": "https://images.pexels.com/photos/3661549/pexels-photo-3661549.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 11,
+    "name": "ست خواهر–برادری راه‌راه آبی",
+    "badge": "ست خانواده",
+    "price": "۱,۴۵۰,۰۰۰ تومان",
+    "size": "۲–۸ سال",
+    "description": "ست هماهنگ برای خواهر و برادر با طرح راه‌راه آبی، مناسب تولد و عکاسی.",
+    "image": "https://images.pexels.com/photos/1648374/pexels-photo-1648374.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 12,
+    "name": "جوراب نوزادی ضدلغزش طرح حیوانات",
+    "badge": "اکسسوری",
+    "price": "۱۴۰,۰۰۰ تومان",
+    "size": "۰–۱۲ ماه",
+    "description": "جوراب نوزادی ضدلغزش با طرح حیوانات بامزه، مناسب اولین قدم‌ها.",
+    "image": "https://images.pexels.com/photos/1556679/pexels-photo-1556679.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
